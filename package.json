@@ -1,0 +1,20 @@
+{
+  "name": "build-html",
+  "version": "1.0.0",
+  "description": "Build-time HTML manipulation tool",
+  "main": "build-html.js",
+  "bin":"./bin/build-html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Nemesarial/build-html.git"
+  },
+  "author": "Mark Holtzhausen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nemesarial/build-html/issues"
+  },
+  "homepage": "https://github.com/Nemesarial/build-html#readme"
+}
